@@ -22,19 +22,19 @@ const Projects = () => {
           src="/duartrizanitest.com.png"
           title="Website to make offers"
           description="This web app is used to create offers for someone, it was made with ReactJS"
-          links="https://duartrizanitest.com"
+          links="https://driloni1.vercel.app/"
         />
+          <ProjectCard
+            src="/duarttest.site.png"
+            title="German Employeement System"
+            description="This website was made for companies, to use the same system as they do in germany, for admins and employees, username: test , password: test"
+            links="https://duarttest.site"
+          />
         <ProjectCard
           src="/deskdemons.fun.png"
           title="Desk Demons (VALORANT)"
           description="This website was made for fun, its a website about a game called VALORANT which uses VALORANT's API to get data about the players (DESKTOP ONLY)"
-          links="https://deskdemons.fun"
-        />
-        <ProjectCard
-          src="/duarttest.site.png"
-          title="Website for a company"
-          description="This website was made for a company(not sold, not used) and I did test some 3d objects, made with ReactJS"
-          links="https://duarttest.site"
+          links="https://deskdemons2-0.vercel.app/"
         />
         <ProjectCard
           src="/drgroup.png"
