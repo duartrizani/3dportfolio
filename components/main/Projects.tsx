@@ -27,7 +27,7 @@ const Projects = () => {
           <ProjectCard
             src="/duarttest.site.png"
             title="German Employeement System"
-            description="This website was made for companies, to use the same system as they do in germany, for admins and employees, username: test , password: test"
+            description="This website was made for companies, to use the same system as they do in germany, for admins and employees, username: admin , password: 123456"
             links="https://duarttest.site"
           />
         <ProjectCard
